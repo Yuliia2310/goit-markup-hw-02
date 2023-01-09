@@ -1,0 +1,162 @@
+/* MAIN STYLES  */
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.body {
+    background-color: FFFFF;
+    font-family: Roboto, sans-serif;
+    letter-spacing: 0.02em;
+}
+
+
+/* STYLES STUDIO */
+
+/* ================= Header styles ================= */
+
+.logo {
+    font-family: Raleway, sans-serif;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.3;
+    letter-spacing: 0.03em;
+    color: #2E2F42;
+    text-transform: uppercase;
+}
+
+.logo-accent {
+    color: #4D5AE5
+}
+
+
+.menu-link {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2E2F42;
+}
+
+.menu-link:hover,
+.menu-link:focus {
+    color: #4D5AE5;
+}
+
+.contact {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+.contact:hover,
+.contact:focus {
+    color: #4D5AE5;
+}
+
+/*================= /Header styles ================= */
+
+
+/*================= Hero ================= */
+.hero {
+    background-color: #2E2F42;
+    Width: 1440px;
+    Height: 603px;
+    Top: 72px;
+}
+
+.main-title {
+    font-weight: 600;
+    font-size: 56px;
+    line-height: 1.1;
+    color: #FFFFFF;
+}
+
+.button {
+    font-size: 16px;
+    line-height: 1.2;
+    background-color: #4D5AE5;
+    color: #FFFFFF;
+}
+
+.button:hover,
+.button:focus {
+    background-color: #404BBF;
+    color: #FFFFFF;
+
+}
+
+/*================= /Hero ================= */
+
+
+/*================= Advantages ================= */
+.title {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 1.1;
+    color: #2E2F42;
+}
+
+.subtitle {
+    font-weight: 600;
+    font-size: 20px; 
+    line-height:1.2;
+    color: #2E2F42;
+}
+
+.text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+
+/* ================= /Advantages ================= */
+
+
+/*================= Team ================= */
+
+
+/*================= /Team ================= */
+
+/* ===================  Footer    ================ */
+.footer {
+    width: 1440px;
+    height: 310px;
+    background-color: #2E2F42;
+}
+
+.text-footer {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #E7E9FC;
+}
+
+.footer-logo {
+    color: #F4F4FD;
+}
+
+/* ===================  /Footer    ================ */
+
+/* STYLES PORTFOLIO */
+
+/* ============== Filter ============= */
+
+.button-filter {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #4D5AE5;
+    Background-color: #F4F4FD;
+    border: #E7E9FC;
+
+}
+
+.button-filter:hover,
+.button-filter:focus {
+    background-color: #404BBF;
+    color: #FFFFFF;
+}
